@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Max Nikitin</h1>
 <h3 align="center">A passionate full stack developer from New York</h3>
 
-- 🔭 I’m currently working on next gen developer tool for web forms creation - [formaBull](https://github.com/oslabs-beta/formaBull)
+- 🔭 I’m currently working on a competitive pricing intelligence tooling at - [THD](https://www.blacklocus.com/)
 
-- 🌱 In my spare time I`m learning **NextJS/GatsbyJS and Python**
+- 🌱 In my spare time I`m digging into **ML and Cybersecurity**
 
-- 💬 Ask me about **React Hooks/Context API and CSS**
+- 💬 Ask me about **React/Microservices/GCP**
 
 - 📫 How to reach me **nikitinmax2300@gmail.com**
 
